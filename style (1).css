@@ -1,0 +1,30 @@
+body {
+  background-color: azure;
+  
+
+}
+h1 {
+ 
+  color: chartreuse;
+  text-align: center;
+  font-family: cursive;
+  border:dotted;
+}
+h2{
+  color:skyblue;
+  font-family: cursive;
+text-decoration-line: underline;
+  
+
+}
+img {
+  float: right;
+  width: 300px;
+  height: 200px;
+  border-radius: 50px;
+  border-bottom-left-radius:50px;
+}
+li{
+  font-family: cursive;
+  color: mediumpurple;
+}5
